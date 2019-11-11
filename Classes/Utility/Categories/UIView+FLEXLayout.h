@@ -1,5 +1,5 @@
 //
-//  UIView+Layout.h
+//  UIView+FLEXLayout.h
 //  FLEX
 //
 //  Created by Tanner Bennett on 7/18/19.

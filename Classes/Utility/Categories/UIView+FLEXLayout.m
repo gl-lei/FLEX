@@ -1,12 +1,12 @@
 //
-//  UIView+Layout.m
+//  UIView+FLEXLayout.m
 //  FLEX
 //
 //  Created by Tanner Bennett on 7/18/19.
 //Copyright © 2019 Flipboard. All rights reserved.
 //
 
-#import "UIView+Layout.h"
+#import "UIView+FLEXLayout.h"
 
 @implementation UIView (Layout)
 

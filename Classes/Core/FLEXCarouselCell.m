@@ -8,7 +8,7 @@
 
 #import "FLEXCarouselCell.h"
 #import "FLEXColor.h"
-#import "UIView+Layout.h"
+#import "UIView+FLEXLayout.h"
 
 @interface FLEXCarouselCell ()
 @property (nonatomic, readonly) UILabel *titleLabel;
